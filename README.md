@@ -85,7 +85,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    python mac_address_changer_windows.py --help
    ```
-3. Usage:
+   Output:
 
 Windows MAC changer By R4V3N
 
@@ -97,7 +97,7 @@ optional arguments:
   
   -m MAC, --mac MAC  The new MAC you want to change to
   
-5. Let's try with a random MAC:
+3. Let's try with a random MAC:
    ```sh
    $ python mac_address_changer_windows.py --random
    ```
