@@ -91,11 +91,11 @@ This is an example of how to list things you need to use the software and how to
 
    optional arguments:
 
-  -h, --help         show this help message and exit
+   -h, --help         show this help message and exit
   
-  -r, --random       Whether to generate a random MAC address
+   -r, --random       Whether to generate a random MAC address
   
-  -m MAC, --mac MAC  The new MAC you want to change to
+   -m MAC, --mac MAC  The new MAC you want to change to
   
 3. Let's try with a random MAC:
    ```sh
