@@ -86,21 +86,31 @@ This is an example of how to list things you need to use the software and how to
    python mac_address_changer_windows.py --help
    ```
 3. Usage:
+
 Windows MAC changer By R4V3N
+
 optional arguments:
+
   -h, --help         show this help message and exit
+  
   -r, --random       Whether to generate a random MAC address
+  
   -m MAC, --mac MAC  The new MAC you want to change to
-4. Let's try with a random MAC:
+  
+5. Let's try with a random MAC:
    ```sh
    $ python mac_address_changer_windows.py --random
    ```
    Output:
    
 #0: EE-9C-BC-AA-AA-AA, {0104C4B7-C06C-4062-AC09-9F9B977F2A55}
+
 #1: 02-00-4C-4F-4F-50, {DD1B45DA-B5D4-46D0-B4EA-3E07FA35BF0F}
+
 Please choose the interface you want to change the MAC address:0
+
 [*] Old MAC address: EE-9C-BC-AA-AA-AA
+
 The operation completed successfully.
 
 [+] Changed to: 5A8602E9CF3D
