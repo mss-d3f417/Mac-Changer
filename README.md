@@ -140,15 +140,17 @@ This is an example of how to list things you need to use the software and how to
    Output:
 
    [*] Old MAC address: 84:76:04:07:40:59
+   
    [+] New MAC address: ee:52:93:6e:1c:f2
   
-3. Let's change to a specified MAC address now:
+4. Let's change to a specified MAC address now:
    ```sh
    python mac_address_changer_linux.py wlan0 -m 00:FA:CE:DE:AD:00
    ```
    Output:
    
    [*] Old MAC address: ee:52:93:6e:1c:f2
+   
    [+] New MAC address: 00:fa:ce:de:ad:00
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
