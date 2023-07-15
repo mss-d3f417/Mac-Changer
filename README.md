@@ -87,9 +87,9 @@ This is an example of how to list things you need to use the software and how to
    ```
    Output:
 
-Windows MAC changer By R4V3N
+   Windows MAC changer By R4V3N
 
-optional arguments:
+   optional arguments:
 
   -h, --help         show this help message and exit
   
@@ -103,21 +103,21 @@ optional arguments:
    ```
    Output:
    
-#0: EE-9C-BC-AA-AA-AA, {0104C4B7-C06C-4062-AC09-9F9B977F2A55}
+   #0: EE-9C-BC-AA-AA-AA, {0104C4B7-C06C-4062-AC09-9F9B977F2A55}
 
-#1: 02-00-4C-4F-4F-50, {DD1B45DA-B5D4-46D0-B4EA-3E07FA35BF0F}
+   #1: 02-00-4C-4F-4F-50, {DD1B45DA-B5D4-46D0-B4EA-3E07FA35BF0F}
 
-Please choose the interface you want to change the MAC address:0
+   Please choose the interface you want to change the MAC address:0
 
-[*] Old MAC address: EE-9C-BC-AA-AA-AA
+   [*] Old MAC address: EE-9C-BC-AA-AA-AA
 
-The operation completed successfully.
+   The operation completed successfully.
 
-[+] Changed to: 5A8602E9CF3D
+   [+] Changed to: 5A8602E9CF3D
 
-[+] Adapter is disabled
+   [+] Adapter is disabled
 
-[+] Adapter is enabled again
+   [+] Adapter is enabled again
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
