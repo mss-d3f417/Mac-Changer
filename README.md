@@ -72,7 +72,7 @@ Python - application, we will use subprocess,string,random,regex libraries.
 This is an example of how to list things you need to use the software and how to install them.
 * Install Required Libraries
   ```sh
-  $ pip install regex 
+  pip install regex 
   ```
 
 ### Installation
@@ -99,7 +99,7 @@ This is an example of how to list things you need to use the software and how to
   
 3. Let's try with a random MAC:
    ```sh
-   $ python mac_address_changer_windows.py --random
+   python mac_address_changer_windows.py --random
    ```
    Output:
    
@@ -118,6 +118,38 @@ This is an example of how to list things you need to use the software and how to
    [+] Adapter is disabled
 
    [+] Adapter is enabled again
+
+
+<!-- GETTING STARTED -->
+## Getting Started On Linux
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/R4V3NIR/Mac-Changer.git
+   ```
+2. Run 
+   ```sh
+   python mac_address_changer_linux.py wlan0 -r
+   ```
+   Output:
+
+   [*] Old MAC address: 84:76:04:07:40:59
+   [+] New MAC address: ee:52:93:6e:1c:f2
+  
+3. Let's change to a specified MAC address now:
+   ```sh
+   python mac_address_changer_linux.py wlan0 -m 00:FA:CE:DE:AD:00
+   ```
+   Output:
+   
+   [*] Old MAC address: ee:52:93:6e:1c:f2
+   [+] New MAC address: 00:fa:ce:de:ad:00
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
