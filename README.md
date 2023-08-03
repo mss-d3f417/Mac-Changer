@@ -1,4 +1,4 @@
-# Raven Mac Changer Linux & Windows
+# MR.DEFALT Mac Changer Linux & Windows
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -21,14 +21,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://s8.uupload.ir/files/logo_o143.png" alt="Logo" width="90" height="90">
-  </a>
 
   <h3 align="center">Simple Mac Changer For Linux & Windows</h3>
 
