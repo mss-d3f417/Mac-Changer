@@ -25,7 +25,7 @@
   <h3 align="center">Simple Mac Changer For Linux & Windows</h3>
 
   <p align="center">
-    Linux & Windows Mac Changer With Python By R4V3N ! 
+    Linux & Windows Mac Changer With Python By D3F417 ! 
     <br />
     <br />
     <br />
@@ -71,7 +71,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/R4V3NIR/Mac-Changer.git Or Download Zip File For Windows!
+   git clone https://github.com/D3F417IR/Mac-Changer.git Or Download Zip File For Windows!
    ```
 2. Run 
    ```sh
@@ -79,7 +79,7 @@ This is an example of how to list things you need to use the software and how to
    ```
    Output:
 
-   Windows MAC changer By R4V3N
+   Windows MAC changer By D3F417
 
    optional arguments:
 
@@ -123,7 +123,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/R4V3NIR/Mac-Changer.git
+   git clone https://github.com/D3F417IR/Mac-Changer.git
    ```
 2. Run 
    ```sh
@@ -150,9 +150,9 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTACT -->
 ## Contact
 
-R4V3N - [@R4v3nir](https://t.me/R4v3nir) - mrrobotha3@gmail.com
+D3F417 - [@D3F417ir](https://t.me/D3F417ir) - mrrobotha3@gmail.com
 
-Project Link: [https://github.com/R4V3NIR/Mac-Changer](https://github.com/R4V3NIR/Mac-Changer)
+Project Link: [https://github.com/D3F417IR/Mac-Changer](https://github.com/D3F417IR/Mac-Changer)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
